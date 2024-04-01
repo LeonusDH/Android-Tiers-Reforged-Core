@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATR_MechaniteSurge.label>Скачок сигнала</ATR_MechaniteSurge.label>
+  <ATR_MechaniteSurge.label>Всплеск сигнала</ATR_MechaniteSurge.label>
   <ATR_MechaniteSurge.description>Синтетический раствор, содержащий широкий спектр высокопроводящих соединений, проходит по линиям хладогента и присоединяется к сигнальным линиям по всему шасси, значительно улучшая передачу информации. До тех пор, пока не иссякнет, юнит будет получать небольшую прибавку к сознанию.</ATR_MechaniteSurge.description>
   <ATR_MechaniteSurge.stages.0.label>незаметная</ATR_MechaniteSurge.stages.0.label>
   <ATR_MechaniteSurge.stages.1.label>слабая</ATR_MechaniteSurge.stages.1.label>
